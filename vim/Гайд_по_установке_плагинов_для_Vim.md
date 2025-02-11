@@ -121,10 +121,6 @@ return {
 }
 ```
 
-# Плагин *Onedark**
-
-[Ссылка](https://github.com/joshdick/onedark.vim) на репозиторий плагина 
-
 # Плагин **Treesitter**
 
 [Ссылка](https://github.com/nvim-treesitter/nvim-treesitter) на репозиторий плагина 
